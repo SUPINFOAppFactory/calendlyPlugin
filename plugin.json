@@ -3,7 +3,7 @@
   "pluginName": "Calendly",
   "pluginDescription": "Simple, beautiful scheduling. Say goodbye to email and phone tag for finding the perfect meeting time.Related Topics:SimplyBook",
   "supportEmail": "supinfoappfactory@supinfo.com",
-  "supportSite":"http://support.appdocumentation.com/knowledge-base/calendly-plugin-tutorial//",
+  "supportSite":"http://support.appdocumentation.com/knowledge-base/calendly-plugin-tutorial/",
   "control": {
     "content": {
       "enabled": true
